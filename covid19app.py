@@ -1,7 +1,7 @@
 """
 Date : 11/04/2020
 Author : Suman Sigdel
-File : CoronaVirus.app : Scrapes the Covid-19 data using Selenium Webdriver and BeautifulSoup
+File : CoronaVirus.app : Scrapes the Covid-19 data and puts in an excel file
 """
 
 from bs4 import BeautifulSoup
@@ -36,4 +36,8 @@ def scrape_country_infectants() :
     driver.quit()
     return (box)
 
-print(scrape_country_infectants())
+returned_data = scrape_country_infectants()
+for row in returned_data:
+    print(row.text)
+
+
