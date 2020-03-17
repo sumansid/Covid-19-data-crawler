@@ -1,7 +1,7 @@
 """
 Date : 11/04/2020
 Author : Suman Sigdel
-File : CoronaVirus.app : Scrapes the Covid-19 data and puts in an excel file
+File : CoronaVirus.app : Scrapes the Covid-19 data using Selenium Webdriver and BeautifulSoup
 """
 
 from bs4 import BeautifulSoup
