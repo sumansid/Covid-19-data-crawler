@@ -6,8 +6,8 @@ CoronaVirus data crawler that crawls data from dynamic javascript sites like Cor
 
 ## Libraries used : Selenium Webdriver and BeautifulSoup
 
-```bash
 ## How to use : 
+```bash
 1. Download the covid19app.py file
 2. Install Chrome or Firefox webdriver 
 3. Change the file path on line 11
