@@ -13,6 +13,8 @@ CoronaVirus data crawler that crawls data from dynamic javascript sites like Cor
 3. Change the file path on line 11
 4. Run saveInExcel.py
 ```
+## Contributing
+Pull requests are welcome. 
 
 
 
