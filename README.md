@@ -1,5 +1,4 @@
 # CoronaVirus-Data-Crawler
-CoronaVirus Data Crawler which gathers the data from Coronavirus.app site.
 
 
 CoronaVirus data crawler that crawls data from dynamic javascript sites like Coronavirus.app. 
