@@ -1,121 +1,183 @@
-China,81,181
-Italy,69,176
-United States,53,572
-Spain,42,058
-Germany,32,649
-Iran,24,811
-France,22,302
-Switzerland,9,877
-South Korea,9,037
-United Kingdom,8,077
-Netherlands,5,560
-Austria,5,283
-Belgium,4,269
-Norway,2,866
-Canada,2,862
-Portugal,2,362
-Sweden,2,299
-Australia,2,252
-Brazil,2,247
-Israel,1,930
-Turkey,1,872
-Malaysia,1,624
-Denmark,1,591
-Czechia,1,394
-Ireland,1,329
-Japan,1,193
-Luxembourg,1,099
-Ecuador,1,082
-Pakistan,972
-Chile,922
-Poland,901
-Thailand,827
-Romania,794
-Finland,792
-Saudi Arabia,767
-Greece,743
+United States,114,942
+Italy,92,472
+China,81,401
+Spain,72,248
+Germany,54,059
+Iran,35,408
+France,32,964
+United Kingdom,17,089
+Switzerland,13,377
+Netherlands,9,762
+South Korea,9,478
+Belgium,9,134
+Austria,8,188
+Turkey,7,402
+Portugal,5,170
+Canada,4,772
+Norway,3,981
+Australia,3,635
+Israel,3,619
+Brazil,3,477
+Sweden,3,447
+Czechia,2,541
+Ireland,2,415
+Malaysia,2,320
+Denmark,2,201
+Chile,1,909
+Luxembourg,1,831
+Ecuador,1,823
+Japan,1,499
+Poland,1,481
+Romania,1,452
+Pakistan,1,420
+Russia,1,264
+Thailand,1,245
+Saudi Arabia,1,203
+South Africa,1,170
+Finland,1,167
+Indonesia,1,155
+Philippines,1,075
+Greece,1,061
+Iceland,963
+India,909
+Singapore,802
+Panama,786
+Dominican Republic,719
+Mexico,717
 Diamond Princess (Cruise),712
-Indonesia,686
-Iceland,678
-Singapore,558
-South Africa,554
-Philippines,552
-Qatar,526
-India,517
-Russia,495
-Slovenia,480
-Panama,443
-Peru,416
-Egypt,402
-Bahrain,392
-Argentina,387
-Hong Kong,386
-Croatia,382
-Colombia,378
-Estonia,369
-Mexico,367
-Lebanon,318
-Iraq,316
-Dominican Republic,312
-Serbia,303
-Algeria,264
-Armenia,249
-United Arab Emirates,248
-Bulgaria,218
-Taiwan,216
-Lithuania,209
-Slovakia,204
-Latvia,197
-Kuwait,191
-Uruguay,189
-Hungary,187
-San Marino,187
-Costa Rica,177
-Morocco,170
-Bosnia and Herzegovina,168
-Andorra,164
-New Zealand,155
-Jordan,154
-North Macedonia,148
-Vietnam,134
-Moldova,125
-Cyprus,124
-Albania,123
-Faeroe Islands,122
-Burkina Faso,114
-Tunisia,114
-Malta,110
-Brunei,104
-Ukraine,102
-Sri Lanka,102
-Cambodia,91
-Azerbaijan,87
-Senegal,86
-Oman,84
-Venezuela,84
-Belarus,81
-Afghanistan,74
-Ivory Coast,73
-Kazakhstan,72
-Georgia,70
-Cameroon,66
-Kosovo,63
-Palestine,60
-Trinidad and Tobago,57
-Ghana,53
-Liechtenstein,51
-Uzbekistan,50
-Cuba,48
-Montenegro,47
-DR Congo,45
-Nigeria,44
-Kyrgyzstan,42
-Mauritius,42
-Rwanda,40
-Bangladesh,39
-Puerto Rico,39
-Guam,32
-Honduras,30
-Bolivia,29
-Macao,29
-Paraguay,27
+Argentina,690
+Slovenia,684
+Peru,671
+Serbia,659
+Croatia,657
+Estonia,645
+Colombia,608
+Qatar,590
+Egypt,576
+Hong Kong,560
+Iraq,506
+Bahrain,476
+United Arab Emirates,468
+Algeria,454
+New Zealand,451
+Lebanon,412
+Armenia,407
+Lithuania,382
+Morocco,359
+Hungary,343
+Bulgaria,331
+Ukraine,311
+Andorra,308
+Latvia,305
+Slovakia,292
+Taiwan,283
+Uruguay,274
+Costa Rica,263
+Bosnia and Herzegovina,258
+Jordan,246
+North Macedonia,241
+Kuwait,235
+Moldova,231
+Kazakhstan,228
+Tunisia,227
+San Marino,226
+Burkina Faso,207
+Albania,197
+Azerbaijan,182
+Cyprus,179
+Vietnam,174
+Faeroe Islands,155
+Oman,152
+Malta,149
+Ghana,141
+Senegal,130
+Brunei,120
+Cuba,119
+Venezuela,113
+Sri Lanka,113
+Afghanistan,110
+Uzbekistan,104
+Mauritius,102
+Ivory Coast,101
+Puerto Rico,100
+Cambodia,99
+Palestine,97
+Honduras,95
+Belarus,94
+Cameroon,91
+Georgia,90
+Kosovo,90
+Nigeria,89
+Montenegro,82
+Bolivia,74
+Trinidad and Tobago,74
+DR Congo,58
+Kyrgyzstan,58
+Gibraltar,56
+Paraguay,56
+Liechtenstein,56
+Rwanda,54
+Guam,51
+Bangladesh,48
+Aruba,46
+Monaco,42
+Kenya,38
+Macao,34
+Guatemala,32
+Jamaica,30
+Polynésie française,30
+Zambia,28
+Madagascar,26
+Barbados,26
+Togo,25
+Uganda,23
+El Salvador,19
+Maldives,16
+Ethiopia,16
+New Caledonia,15
+Tanzania,13
+Djibouti,12
+Mongolia,12
+Equatorial Guinea,12
+Dominica,11
+Bahamas,10
+Greenland,10
+Niger,10
+Eswatini,9
+Curaçao,8
+Namibia,8
+Cayman Islands,8
+Guinea,8
+Haiti,8
+Myanmar,8
+Mozambique,8
+Suriname,8
+Zimbabwe,7
+Grenada,7
+Seychelles,7
+Antigua and Barbuda,7
+Gabon,7
+Eritrea,6
+Benin,6
+Vatican City,6
+Montserrat,5
+Fiji,5
+Cape Verde,5
+Mauritania,5
+Sudan,5
+Syria,5
+Guyana,5
+Nepal,5
+Nicaragua,4
+Angola,4
+Liberia,3
+Bhutan,3
+CAR,3
+Gambia,3
+Sint Maarten,3
+Saint Lucia,3
+Somalia,3
+Chad,3
+Belize,2
+Papua New Guinea,1
+St. Vincent Grenadines,1
