@@ -1,7 +1,7 @@
 """
 Date : 11/04/2020
 Author : Suman Sigdel
-File : CoronaVirus.app : Scrapes the Covid-19 data from dynamic JS sites
+File : CoronaVirus.app : Scrapes the Covid-19 data from dynamic JS sites, ie. coronavirus.app
 """
 
 from bs4 import BeautifulSoup
