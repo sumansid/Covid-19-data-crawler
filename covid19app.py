@@ -1,5 +1,5 @@
 """
-Date : 11/04/2020
+Date : 15/04/2020
 Author : Suman Sigdel
 File : CoronaVirus.app : Scrapes the Covid-19 data from dynamic JS sites, ie. coronavirus.app
 """
@@ -45,13 +45,3 @@ def countries_array():
 def array_to_dict():
     dictionary = dict(zip(countries_array(), infectants_array()))
     return dictionary
-
-
-
-
-
-
-
-
-
-
