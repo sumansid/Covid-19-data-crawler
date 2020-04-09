@@ -7,9 +7,9 @@ File : CoronaVirus.app : Scrapes the Covid-19 data from dynamic JS sites, ie. co
 from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
-
-driver = webdriver.Chrome('/Users/sumansigdel/Documents/chromedriver')
-res = driver.get("https://coronavirus.app/")
+# Path to the Chromedriver
+driver = webdriver.Chrome('/Users///chromedriver') 
+res = driver.get("https://coronavirus.app/") 
 
 def scrape_country_name():
     #res = requests.get(url)
