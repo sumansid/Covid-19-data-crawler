@@ -9,6 +9,7 @@ import requests
 from selenium import webdriver
 # Path to the Chromedriver
 driver = webdriver.Chrome('/Users///chromedriver') 
+# Setting up the request
 res = driver.get("https://coronavirus.app/") 
 
 def scrape_country_name():
