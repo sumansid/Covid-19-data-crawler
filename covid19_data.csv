@@ -1,205 +1,139 @@
-United States,498,500
-Spain,157,022
-Italy,139,494
-Germany,122,332
-France,90,677
-China,81,908
-United Kingdom,70,272
-Iran,68,192
-Turkey,47,029
-Belgium,26,667
-Switzerland,24,551
-Netherlands,23,097
-Canada,22,046
-Brazil,19,789
-Portugal,15,472
-Austria,13,560
-Russia,11,917
-South Korea,10,450
-Israel,10,408
-Sweden,9,685
-Ireland,8,089
-India,7,600
-Ecuador,7,161
-Chile,6,501
-Norway,6,314
-Australia,6,238
-Poland,5,955
-Peru,5,897
-Denmark,5,819
-Czechia,5,732
-Japan,5,530
-Romania,5,467
-Pakistan,4,695
-Malaysia,4,346
-Philippines,4,195
-Saudi Arabia,3,651
-Indonesia,3,512
-Mexico,3,441
-United Arab Emirates,3,360
-Luxembourg,3,223
-Serbia,3,105
-Panama,2,974
-Finland,2,769
-Dominican Republic,2,620
-Qatar,2,512
-Thailand,2,473
-Colombia,2,461
-Ukraine,2,203
-Singapore,2,108
-Greece,2,011
-South Africa,2,003
-Belarus,1,981
-Argentina,1,975
-Egypt,1,794
-Algeria,1,761
-Iceland,1,675
-Croatia,1,495
-Morocco,1,448
-Moldova,1,438
-New Zealand,1,283
-Iraq,1,279
-Estonia,1,258
-Hungary,1,190
-Slovenia,1,160
-Lithuania,999
-Kuwait,993
-Azerbaijan,991
-Hong Kong,990
-Armenia,937
-Bahrain,925
-Bosnia and Herzegovina,901
+United States,529,192
+Spain,161,852
+Italy,152,271
+Germany,125,811
+France,93,790
+China,82,052
+United Kingdom,78,991
+Iran,70,029
+Turkey,52,167
+Belgium,28,018
+Switzerland,25,107
+Netherlands,24,413
+Canada,23,303
+Brazil,20,962
+Portugal,15,987
+Austria,13,806
+Russia,13,584
+Israel,10,743
+South Korea,10,512
+Sweden,10,151
+Ireland,8,928
+India,8,453
+Ecuador,7,257
+Chile,6,927
+Peru,6,848
+Japan,6,748
+Norway,6,409
+Poland,6,356
+Australia,6,292
+Denmark,5,996
+Romania,5,990
+Czechia,5,902
+Pakistan,5,011
+Malaysia,4,530
+Philippines,4,428
+Mexico,4,219
+Saudi Arabia,4,033
+Indonesia,3,842
+United Arab Emirates,3,736
+Serbia,3,380
+Luxembourg,3,270
+Panama,3,234
+Finland,2,905
+Dominican Republic,2,759
+Qatar,2,728
+Colombia,2,702
+Thailand,2,518
+Ukraine,2,511
+Singapore,2,299
+Belarus,2,226
+Argentina,2,142
+Greece,2,081
+South Africa,2,028
+Egypt,1,939
+Algeria,1,825
+Iceland,1,689
+Moldova,1,560
+Morocco,1,545
+Croatia,1,534
+New Zealand,1,330
+Iraq,1,318
+Hungary,1,310
+Estonia,1,304
+Slovenia,1,188
+Kuwait,1,154
+Azerbaijan,1,058
+Bahrain,1,040
+Lithuania,1,026
+Hong Kong,1,001
+Armenia,967
+Bosnia and Herzegovina,946
+Kazakhstan,865
 Cameroon,820
-Kazakhstan,812
-Puerto Rico,725
-Slovakia,715
+Puerto Rico,788
+Uzbekistan,767
+North Macedonia,760
+Slovakia,728
 Diamond Princess (Cruise),712
-North Macedonia,711
-Tunisia,671
-Bulgaria,635
-Uzbekistan,624
-Latvia,612
-Lebanon,609
+Tunisia,685
+Bulgaria,661
+Latvia,630
+Cuba,620
+Lebanon,619
+Cyprus,616
 Andorra,601
-Cyprus,595
-Cuba,564
-Costa Rica,558
-Afghanistan,521
-Oman,484
-Ivory Coast,480
-Uruguay,473
-Burkina Faso,448
-Niger,438
-Bangladesh,424
-Albania,416
-Honduras,382
-Taiwan,382
-Ghana,378
-Jordan,372
-Malta,350
-San Marino,344
-Mauritius,318
-Nigeria,305
-Kyrgyzstan,298
-Bolivia,268
-Palestine,267
-Senegal,265
-Vietnam,257
-Montenegro,257
-Kosovo,250
-Georgia,234
-DR Congo,215
-Guinea,212
-Isle of Man,201
-Sri Lanka,190
-Kenya,189
+Costa Rica,577
+Afghanistan,555
+Oman,546
+Ivory Coast,533
+Uruguay,494
+Niger,491
+Burkina Faso,484
+Bangladesh,482
+Albania,433
+Ghana,408
+Honduras,392
+Taiwan,385
+Jordan,381
+Malta,370
+San Marino,356
+Kyrgyzstan,339
+Mauritius,319
+Nigeria,318
+Bolivia,300
+Kosovo,283
+Senegal,278
+Palestine,268
+Montenegro,263
+Vietnam,258
+Guinea,250
+Georgia,242
+Isle of Man,226
+DR Congo,223
+Sri Lanka,199
+Kenya,191
+Djibouti,187
 Faeroe Islands,184
 Venezuela,175
-Djibouti,150
+Guatemala,153
 Brunei,136
-Guam,130
-Paraguay,129
-Gibraltar,127
-Guatemala,126
-Cambodia,119
-Rwanda,118
-El Salvador,117
-Trinidad and Tobago,109
-Madagascar,93
-Monaco,90
+Paraguay,134
+Guam,133
+Gibraltar,129
+Cambodia,122
+Rwanda,120
+El Salvador,118
+Trinidad and Tobago,112
+Madagascar,102
+Aruba,92
+Monaco,92
 Mali,87
-Aruba,86
 Liechtenstein,79
 Togo,76
-Barbados,67
-Ethiopia,65
-Jamaica,63
+Ethiopia,69
+Jamaica,69
+Barbados,68
 Congo,60
 Uganda,53
-Polynésie française,51
-Sint Maarten,50
-Bermuda,48
-Cayman Islands,45
-Macao,45
-Gabon,44
-Bahamas,42
-Zambia,40
-Guyana,37
-Liberia,37
-Guinea-Bissau,36
-Benin,35
-Eritrea,34
-Tanzania,32
-Haiti,31
-Myanmar,27
-Libya,24
-Somalia,21
-Antigua and Barbuda,21
-Mozambique,20
-Maldives,19
-Syria,19
-Angola,19
-Equatorial Guinea,18
-New Caledonia,18
-Sudan,17
-Namibia,16
-Laos,16
-Mongolia,16
-Fiji,16
-Dominica,16
-Saint Lucia,15
-Curaçao,14
-Grenada,14
-Botswana,13
-Zimbabwe,13
-Saint Kitts and Nevis,12
-Eswatini,12
-St. Vincent Grenadines,12
-Seychelles,11
-Chad,11
-Greenland,11
-Belize,10
-Suriname,10
-Montserrat,9
-Malawi,9
-Nepal,9
-Sierra Leone,8
-Vatican City,8
-CAR,8
-Turks and Caicos,8
-Cape Verde,7
-Nicaragua,7
-Mauritania,7
-Falkland Islands,5
-Bhutan,5
-Sao Tome and Principe,4
-Gambia,4
-Western Sahara,4
-South Sudan,4
-Burundi,3
-British Virgin Islands,3
-Anguilla,3
-Caribbean Netherlands,2
-Timor-Leste,2
-Papua New Guinea,2
-Saint Pierre Miquelon,1
+Cayman Islands,53
