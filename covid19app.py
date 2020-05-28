@@ -5,7 +5,6 @@ File : CoronaVirus.app : Scrapes the Covid-19 data and puts in an excel file
 """
 
 from bs4 import BeautifulSoup
-#import requests
 from selenium import webdriver
 driver = webdriver.Chrome("/Users/sumansigdel/Desktop/chromedriver")
 res = driver.get("https://coronavirus.app/")
@@ -21,7 +20,6 @@ def scrape_country_infectants() :
     box = soup.find_all("div", {"class": "map-sidebar-section-item-nb infected"})
     print(box)
     return box
-
 
 def infectants_array():
     returned_data = scrape_country_infectants()
